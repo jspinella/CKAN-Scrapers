@@ -1,0 +1,17 @@
+{
+  "name": "fred",
+  "version": "1.0.0",
+  "description": "mvp scraper for a FRED page",
+  "main": "indpro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jspinella",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "chalk": "^2.4.2",
+    "puppeteer": "^1.20.0",
+    "headless-chrome-crawler": "latest"
+  }
+}

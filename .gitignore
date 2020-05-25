@@ -1,0 +1,2 @@
+# Ignore node_modules (primarily because puppeteer has files > 100MB - GitHub limit)
+node_modules/
